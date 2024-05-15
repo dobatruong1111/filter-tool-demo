@@ -1,11 +1,11 @@
-### Filter-tool Demo
+## Filter-tool Demo
 
-## Install packages
+### Install packages
 ```
 npm install
 ```
 
-## Start
+### Start
 ```
 npm start
 ```
