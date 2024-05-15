@@ -1,0 +1,10 @@
+.view1 {
+    width: 500px;
+    height: 500px;
+    margin: 20px;
+}
+
+.viewport {
+    height: 100%;
+    width: 100%;
+}
